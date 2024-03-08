@@ -1,4 +1,4 @@
 <?php 
-    echo "Olá";
+    echo "Olá \n" ;
     echo "Alteração";
 ?>
